@@ -1,0 +1,10 @@
+
+.logo{
+    margin-left: 50px;
+    width: 150px;
+    object-fit: contain;
+}
+
+.right{
+    margin-right: 50px;
+}

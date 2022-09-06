@@ -1,0 +1,39 @@
+.card1{
+    width: 18rem;
+    border: solid 1.5px black;
+    border-radius: 7px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.Telugu{
+    background-color: pink;
+}
+
+.Hindi{
+    background-color: rgb(142, 202, 204);
+}
+
+.English{
+    background-color: rgb(159, 247, 213);
+}
+
+.il{
+    display: inline;
+}
+
+.grid2{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.pic{
+    height: 100px;
+    width: 270px;
+}
+
+.hh5{
+    text-align: center;
+}

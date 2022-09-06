@@ -1,0 +1,26 @@
+.total{
+    width: 90vw;
+    margin: 3vw 3vw 0 3vw;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+
+}
+
+
+.grid2{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.grid3{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.btnReg{
+    text-align: center;
+    padding: 30px;
+}
